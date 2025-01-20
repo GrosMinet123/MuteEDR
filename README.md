@@ -1,6 +1,6 @@
 # MuteEDR
 
-A Windows network traffic control utility that uses the Windows Filtering Platform (WFP) to manage network connections at various layers of the network stack.
+A Windows network traffic control utility that uses the Windows Filtering Platform (WFP) to block outbound network connection of a specific Application.
 
 ## Features
 

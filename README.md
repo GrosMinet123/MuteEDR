@@ -58,8 +58,3 @@ GrosMinet123
 ## License
 
 Apache 2.0
-
-## Acknowledgments
-
-- Windows Filtering Platform documentation
-- Rust windows crate maintainers

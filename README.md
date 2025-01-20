@@ -4,9 +4,7 @@ A Windows network traffic control utility that uses the Windows Filtering Platfo
 
 ## Features
 
-- Block all network traffic (both inbound and outbound)
-- Comprehensive filtering at multiple network layers:
-  - Outbound connections (IPv4/IPv6)
+- Block outbound network traffic of any Application
 - Persistent filters that survive system reboots
 - Easy filter removal with unblock command
 
